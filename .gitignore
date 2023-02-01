@@ -203,3 +203,4 @@ spark-warehouse/
 
 
 # End of https://www.gitignore.io/api/sbt,scala,spark,intellij
+/src/main/scala/part5twitterapp/
